@@ -4,6 +4,7 @@ Murat Yücedağ'ın udemyde ücretsiz paylaştığı Portfolyo kursunu tamamlaya
 Projede, bir portfolyo temasını kullanarak SQL veri tabanına bağlı dinamik bir yönetim sistemi oluşturdum. Bu sistem, adminin "Hakkımda" bilgilerini, "Deneyimlerim" kısmındaki iş geçmişlerini, "Yeteneklerim" bölümündeki becerilerini, "Referanslarım" alanındaki referanslarını, "İletişim Bilgilerim" kısmındaki iletişim detaylarını vb. birçok paneli kolayca yönetmesini sağlar. Her bir veri kategorisi, kullanıcı dostu bir arayüz aracılığıyla yönetilebilir ve tüm bilgiler SQL veri tabanında saklanır. Bu sayede, portfolyonun her bölümü güncel ve doğru bilgilerle otomatik olarak güncellenir.
 
 #Kullanılan Teknolojiler
+
 🔹 ASP.NET Core: Projenin temel yapısını oluşturmak için modern ve güçlü bir framework
 
 🔹 SQL: Veritabanı yönetimi için SQL
